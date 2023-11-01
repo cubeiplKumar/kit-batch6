@@ -36,6 +36,7 @@ public class FirstServlet extends HttpServlet {
 		Date date = new Date();
 		out.println(HTML_START + "<h2>Hi There!</h2><br/><h3>Date="+date +"</h3>"+HTML_END);
 	}
+
 #feature202 changes by vivek on reports module in oct2023
 public static int square(int num) {
 
@@ -51,6 +52,19 @@ public static int square(int num) {
     result = square(10);
 
     System.out.println("Squared value of 10 is: " + result);
+
+	#feature201 changes by Akhilesh on Registration Module in Sept 2023
+	public static void main(String[] args) {
+    
+    int num1 = 25;
+    int num2 = 15;
+
+    // create an object of Main
+    Main obj = new Main();
+    // calling method
+    int result = obj.addNumbers(num1, num2);
+    System.out.println("Sum is: " + result);
+
   }
 }
 
