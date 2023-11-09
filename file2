@@ -6,6 +6,7 @@ collateral
 Savings Account
 Current Account
 User Reports
+<<<<<<< HEAD
 #Rate of Interest
 03Nov changes by dev1
 Rate of interes that RBI levies on few banks if
@@ -15,3 +16,8 @@ Capital Gain
 SIP 
 Corporate Investments
 Mutual Bonds Returns
+=======
+#webhook job configurations done
+SIP 
+Corporate Investments
+>>>>>>> 3ab417bb512cc6ce076caa1adae66d812a5295e5
